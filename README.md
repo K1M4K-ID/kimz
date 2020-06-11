@@ -3,7 +3,7 @@ Installer package for termux..
 
 cara install
 
-apt update && apt upgarade -y
+apt update && apt upgrade -y
 
 apt install git -y
 
