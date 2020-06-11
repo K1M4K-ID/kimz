@@ -1,21 +1,17 @@
 # kimz
 Installer package for termux..
 
-"-----------------------------------"
+cara install
 
-           cara install
+apt update && apt upgarade -y
 
-"-----------------------------------"
+apt install git -y
 
-$apt update && apt upgarade -y
+git clone https://github.com/K1M4K-ID/kimz
 
-$apt install git -y
+cd kimz
 
-$git clone https://github.com/K1M4K-ID/kimz
-
-$cd kimz
-
-$sh install.sh
+sh install.sh
 
 terima kasih sudah mampir..
 
