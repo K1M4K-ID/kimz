@@ -135,7 +135,7 @@ a(){
     clear
     banner
     apt update && apt upgrade -y
-    apt install nano ffmpeg nodejs php curl figlet toilet ruby clang git python python2 exiftool neofetch -y
+    apt install nano ffmpeg nodejs php curl figlet toilet ruby clang git nmap openssh python python2 exiftool neofetch -y
     gem install lolcat
     echo
     echo $me"----------------------------------------------"
